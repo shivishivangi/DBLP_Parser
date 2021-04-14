@@ -5,3 +5,6 @@ An interactive social network visualization tool that represents the relationshi
 
 I'm currently constructing an XML parser in Python to efficiently parse through 5.4 million entries and obtain clean data. 
 
+### Note: 
+The DBLP dumpfiles are found on the dblp website. Not included here because the files are too large. 
+
